@@ -14,8 +14,6 @@ class CheckKalimatController extends Controller
             $result = false;
         }
 
-        var_dump($result);
-
         return $result;
     }
 }
